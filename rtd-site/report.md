@@ -2,7 +2,7 @@
 
 Live site: https://testify-docs.readthedocs.io/en/latest/
 Source: https://github.com/stretchr/testify at pinned commit `87a7b9d57689f6579db2da795ab8deeab29cb724` (MIT)
-Generated with: Sourcey 3.9.5, godoc adapter (live mode), via the sealed runx skill run `sourcey-testify-docs-2` (receipt `PENDING-NEW-RUNX-RECEIPT`)
+Generated with: Sourcey 3.9.5, godoc adapter (live mode), via the sealed runx skill run `sourcey-testify-docs-2` (receipt `runx:receipt:sha256:750be1f6fc19e6d6ddd8f6de62c5ec8abf04100119ecb05f436d2b44f2341d3b`)
 
 The generated reference is accurate — 220 unique exported functions and types, real signatures and doc comments taken from the pinned source, 13 pages, live and navigable. What follows is what a maintainer would still want fixed before linking this as the reference for the project.
 

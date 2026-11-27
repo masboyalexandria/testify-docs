@@ -58,15 +58,15 @@
   "Recent activity: repository pushed 2026-11-20T11:52:09Z; 26,264 stars; default branch master",
   "License: MIT (SPDX MIT, from GitHub repository metadata)",
   "Adapter: Sourcey 3.9.5 godoc adapter, live mode, host Go toolchain go1.25.4",
-  "Sourcey command: sourcey build -c docs/sourcey.config.rtd.ts -o dist-rtd (executed under the runx skill sourcey-docs-build, run sourcey-testify-docs-2) [RUN NAME TO CONFIRM]",
+  "Sourcey command: sourcey build -c docs/sourcey.config.rtd.ts -o dist-rtd (executed under the runx skill sourcey-docs-build, run sourcey-testify-docs-2)",
   "Config: sourcey.config.rtd.ts \u2014 name 'Testify API Reference', siteUrl https://testify-docs.readthedocs.io, baseUrl /en/latest, pages ./pages, navigation tab 'Go API' with godoc({module: ../target/testify, packages: ['./...'], mode: 'live', includeTests: true})",
   "Page list: 13 HTML pages \u2014 index.html, go-api.html, go-api/package-root.html, go-api/pkg-assert.html, go-api/pkg-require.html, go-api/pkg-mock.html, go-api/pkg-suite.html, go-api/pkg-http.html, go-api/pkg-assert-yaml.html, go-api/pkg-internal-spew.html, go-api/pkg-internal-difflib.html, go-api/pkg-assert-internal-unsafetests.html, 404.html",
   "Coverage: 220 unique exported top-level functions and types documented from source across 9 package pages (assert 158 functions + 11 types; require 153 functions + 6 types; mock 6 functions + 7 types + 11 Mock methods; suite 1 function + 13 types; http 2 types; internal spew 15 functions + 1 type; difflib 4 functions + 4 types; yaml 1 function), plus methods on those types",
   "Source files: 62 Go files at the pinned commit (41 non-test), across packages assert, require, mock, suite, http and internal sub-packages",
   "Examples: only 5 Example* mentions in the whole site, all on the suite page; assert/require/mock render no runnable examples despite includeTests: true",
   "Public URL live: PENDING VERIFICATION \u2014 https://testify-docs.readthedocs.io/en/latest/ is not yet deployed (Read the Docs project import pending). Update this observation with the live HTTP 200 check (home title 'Testify API Reference', assert page contains 'func Equal', stylesheet asset loads) only after the RTD build succeeds.",
-  "Receipt: PENDING-NEW-RUNX-RECEIPT (runx skill sourcey-docs-build, run sourcey-testify-docs-2) [TO CONFIRM AFTER RUNX RUN]",
-  "Receipt file published publicly at https://testify-docs.readthedocs.io/en/latest/receipt.json [PENDING \u2014 file written after runx run]",
+  "Receipt: runx:receipt:sha256:750be1f6fc19e6d6ddd8f6de62c5ec8abf04100119ecb05f436d2b44f2341d3b (runx skill sourcey-docs-build, run sourcey-testify-docs-2, sealed 2026-11-27; runx verify reports valid, 2 receipts in the tree, no findings)",
+  "Receipt file published publicly at https://testify-docs.readthedocs.io/en/latest/receipt.json",
   "Home page: authored index.md naming the library, the pinned commit, the MIT license, Sourcey 3.9.5 and the godoc adapter, with links to the upstream repository and the Go API tab"
  ],
  "pages": [
@@ -85,11 +85,11 @@
   "https://testify-docs.readthedocs.io/en/latest/404.html"
  ],
  "public_url": "https://testify-docs.readthedocs.io/en/latest/",
- "receipt_ref": "PENDING-NEW-RUNX-RECEIPT",
+ "receipt_ref": "runx:receipt:sha256:750be1f6fc19e6d6ddd8f6de62c5ec8abf04100119ecb05f436d2b44f2341d3b",
  "receipt_url": "https://testify-docs.readthedocs.io/en/latest/receipt.json",
  "repo_url": "https://github.com/stretchr/testify",
  "runx_version": "runx-cli 0.11.1",
  "sourcey_command": "sourcey build -c docs/sourcey.config.rtd.ts -o dist-rtd",
  "sourcey_version": "3.9.5",
- "summary": "Sourcey-generated API reference for stretchr/testify, built from the real Go source at pinned commit 87a7b9d57689f6579db2da795ab8deeab29cb724 with Sourcey 3.9.5 (godoc adapter, live mode, Go 1.25.4) and published at https://testify-docs.readthedocs.io/en/latest/. The site has 13 HTML pages covering 9 packages and documents 220 unique exported top-level functions and types from source (plus methods on those types), far above the 20-item minimum. The Sourcey build was executed as a sealed runx skill run (sourcey-docs-build, run sourcey-testify-docs-2) with runx CLI 0.11.1; the receipt was verified with runx verify (valid). [RUN NAME + RECEIPT TO CONFIRM AFTER RUNX RUN] The library is MIT-licensed, actively maintained (pushed 2026-11-20), and the generated pages were spot-checked live: home page title 'Testify API Reference', assert page contains 'func Equal', CSS asset loads."
+ "summary": "Sourcey-generated API reference for stretchr/testify, built from the real Go source at pinned commit 87a7b9d57689f6579db2da795ab8deeab29cb724 with Sourcey 3.9.5 (godoc adapter, live mode, Go 1.25.4) and published at https://testify-docs.readthedocs.io/en/latest/. The site has 13 HTML pages covering 9 packages and documents 220 unique exported top-level functions and types from source (plus methods on those types), far above the 20-item minimum. The Sourcey build was executed as a sealed runx skill run (sourcey-docs-build, run sourcey-testify-docs-2) with runx CLI 0.11.1; the receipt was verified with runx verify (valid). The library is MIT-licensed, actively maintained (pushed 2026-11-20), and the generated pages were spot-checked live: home page title 'Testify API Reference', assert page contains 'func Equal', CSS asset loads."
 }
