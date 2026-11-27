@@ -1,0 +1,98 @@
+{
+  "/testify-docs/go-api/package-root.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/package-root.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-assert.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-assert-internal-unsafetests.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-internal-unsafetests.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-assert-yaml.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-yaml.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-http.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-http.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-internal-difflib.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-difflib.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-internal-spew.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-spew.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-mock.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-mock.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-require.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-require.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api/pkg-suite.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-suite.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/go-api.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api.html>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://masboyalexandria.github.io/testify-docs/>; rel=\"canonical\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\""
+  },
+  "/testify-docs/documents.json": {
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "/testify-docs/llms.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/testify-docs/llms-full.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/testify-docs/go-api/package-root.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/package-root.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-assert.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-assert-internal-unsafetests.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-internal-unsafetests.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-assert-yaml.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-yaml.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-http.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-http.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-internal-difflib.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-difflib.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-internal-spew.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-spew.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-mock.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-mock.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-require.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-require.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api/pkg-suite.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api/pkg-suite.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/go-api.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/go-api.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/testify-docs/404.html": {
+    "Link": "<https://masboyalexandria.github.io/testify-docs/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  }
+}

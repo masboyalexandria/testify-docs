@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/package-root.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-internal-unsafetests.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-assert-yaml.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-http.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-difflib.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-internal-spew.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-mock.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-require.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api/pkg-suite.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/go-api.html</loc></url>
+  <url><loc>https://masboyalexandria.github.io/testify-docs/</loc></url>
+</urlset>
