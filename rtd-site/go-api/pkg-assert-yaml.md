@@ -1,0 +1,28 @@
+# assert/yaml
+
+Package yaml is just an indirection to handle YAML deserialization.
+
+This package is just an indirection that allows the builder to override the indirection with an alternative implementation of this package that uses another implementation of YAML deserialization. This allows to not either not use YAML deserialization at all, or to use another implementation than [go.yaml.in/yaml/v3](https://pkg.go.dev/go.yaml.in/yaml/v3) (for example for license compatibility reasons, see [PR #1120](https://github.com/stretchr/testify/pull/1120)).
+
+Alternative implementations are selected using build tags:
+
+  - testify\_yaml\_fail: [Unmarshal](#func-Unmarshal) always fails with an error
+  - testify\_yaml\_custom: [Unmarshal](#func-Unmarshal) is a variable. Caller must initialize it before calling any of [github.com/stretchr/testify/assert.YAMLEq](https://pkg.go.dev/github.com/stretchr/testify/assert#YAMLEq) or [github.com/stretchr/testify/assert.YAMLEqf](https://pkg.go.dev/github.com/stretchr/testify/assert#YAMLEqf).
+
+Usage:
+
+	go test -tags testify_yaml_fail
+
+You can check with "go list" which implementation is linked:
+
+	go list -f '{{.Imports}}' github.com/stretchr/testify/assert/yaml
+	go list -tags testify_yaml_fail -f '{{.Imports}}' github.com/stretchr/testify/assert/yaml
+	go list -tags testify_yaml_custom -f '{{.Imports}}' github.com/stretchr/testify/assert/yaml
+
+## Unmarshal
+
+```go
+func Unmarshal(in []byte, out interface{}) error
+```
+
+Unmarshal is just a wrapper of [go.yaml.in/yaml/v3.Unmarshal](https://pkg.go.dev/go.yaml.in/yaml/v3#Unmarshal).

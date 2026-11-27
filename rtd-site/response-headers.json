@@ -1,0 +1,98 @@
+{
+  "/en/latest/go-api/package-root.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/package-root.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-assert.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-assert-internal-unsafetests.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert-internal-unsafetests.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-assert-yaml.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert-yaml.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-http.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-http.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-internal-difflib.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-internal-difflib.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-internal-spew.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-internal-spew.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-mock.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-mock.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-require.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-require.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api/pkg-suite.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-suite.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/go-api.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api.html>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/index.md": {
+    "Content-Type": "text/markdown; charset=utf-8",
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/>; rel=\"canonical\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\""
+  },
+  "/en/latest/documents.json": {
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "/en/latest/llms.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/en/latest/llms-full.txt": {
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "/en/latest/go-api/package-root.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/package-root.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-assert.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-assert-internal-unsafetests.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert-internal-unsafetests.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-assert-yaml.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-assert-yaml.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-http.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-http.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-internal-difflib.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-internal-difflib.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-internal-spew.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-internal-spew.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-mock.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-mock.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-require.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-require.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api/pkg-suite.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api/pkg-suite.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/go-api.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/go-api.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/index.md>; rel=\"alternate\"; type=\"text/markdown\", <https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  },
+  "/en/latest/404.html": {
+    "Link": "<https://testify-docs.readthedocs.io/en/latest/llms.txt>; rel=\"describedby\"; type=\"text/plain\""
+  }
+}

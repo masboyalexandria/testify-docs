@@ -1,0 +1,10 @@
+version: 2
+# Read the Docs build for the Testify API reference (Sourcey-generated static site).
+# The pre-built static site lives in rtd-site/ (committed to the repo); RTD only copies it.
+build:
+  os: "ubuntu-22.04"
+  tools:
+    python: "3.12"
+  commands:
+    - mkdir -p $READTHEDOCS_OUTPUT/html/
+    - cp -r rtd-site/. $READTHEDOCS_OUTPUT/html/
